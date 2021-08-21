@@ -38,9 +38,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`,`pin`) VALUES
-(1,'admin','admin@gmail.com',100,1234),
-(2,'user','user@gmail.com',50,2468),
-(3,'search','search@gmail.com',75,1357);
+(1,'admin','admin@gmail.com',100000,1234),
+(2,'user','user@gmail.com',50000,2468);
 
 --
 -- Indexes for dumped tables
