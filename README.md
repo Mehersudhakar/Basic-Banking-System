@@ -7,6 +7,7 @@ A Web Application used to transfer money between multiple users.
 Front-end : HTML, CSS, Bootstrap & Javascript 
 <br>
 Back-end : PHP 
+<br>
 Database : MySQL   
 
 Database contains two Tables- Users Table & Transaction Table 
