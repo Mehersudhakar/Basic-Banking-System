@@ -2,7 +2,7 @@
 
 A Web Application used to transfer money between multiple users.  
 
-Stack used -
+*Stack used -*
 <br>
 Front-end : HTML, CSS, Bootstrap & Javascript 
 <br>
