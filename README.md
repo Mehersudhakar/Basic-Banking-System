@@ -4,6 +4,7 @@ A Web Application used to transfer money between multiple users.
 
 Stack used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
+<br>
 Back-end : PHP 
 Database : MySQL   
 
